@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3627],{5108:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/project-net-framework-docs/blog/tags/docusaurus","allTagsPath":"/project-net-framework-docs/blog/tags","count":4}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4458],{6535:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/project-net-framework-docs/blog/tags/facebook","allTagsPath":"/project-net-framework-docs/blog/tags","count":1}')}}]);
